@@ -19,3 +19,7 @@ This Jupyter Notebook contains the ETL Process, code, and visualizations for the
 ### gangwish-abs-etl.ipynb
 
 This Jupyter Notebook contains the ETL Process, code, and visualizations involving Characteristics of Businesses and Characteristics of Business Owners
+
+### Business Owner Sex ETL.ipynb
+
+This Jupyter Notebook contains the ETL Process, code, and visualizations involving the Company Summary dataset
