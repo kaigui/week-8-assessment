@@ -16,7 +16,7 @@ https://api.census.gov/data/key_signup.html
 
 This Jupyter Notebook contains the ETL Process, code, and visualizations for the Technology Characteristics of Businesses dataset
 
-### gangwish-abs-etl.ipynb
+### High_Revenue_Firms_ETL.ipynb
 
 This Jupyter Notebook contains the ETL Process, code, and visualizations involving Company Summary dataset and Characteristics of Business Owners
 
