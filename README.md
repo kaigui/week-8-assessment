@@ -2,7 +2,10 @@
 
 ## abs-2019-project-report.pdf
 
-This PDF File contains Group 3's project report, exploring the ABS 2019 dataset with Pandas and visualizations.
+This PDF File contains Group 3's project report, exploring the ABS 2019 dataset with Pandas and visualizations. Visualizations were made using the Matplotlib, Seaborn, and Plotly.
+
+U.S. Census Bureau. (2019). Annual Business Survey, 2019. [Dataset]. https://api.census.gov/data/2018/abscs.html  
+
 
 ## ETL Folder
 
