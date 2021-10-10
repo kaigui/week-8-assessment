@@ -1,1 +1,4 @@
 ETL/config.py
+ETL/.ipynb_checkpoints
+ETL/__pycache__
+.gitignore
