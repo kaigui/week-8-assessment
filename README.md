@@ -23,3 +23,7 @@ This Jupyter Notebook contains the ETL Process, code, and visualizations involvi
 ### Business Owner Sex ETL.ipynb
 
 This Jupyter Notebook contains the ETL Process, code, and visualizations involving the Company Summary dataset
+
+### Business Owner US-ETL.ipynb
+
+This Jupyter Notebook contains the ETL Process, code, and visualizations involving the Characteristics of Businesses and Characteristics of Business Owners datasets.
